@@ -13,13 +13,13 @@ Cool software for programming of controlling payphones
 
 ## Jatena
 
-- [vekejsn/modembridge] - A dial-up gateway that identifies payphone protocols and bridges modem calls to TCP backends.
+- [vekejsn/modembridge](https://github.com/vekejsn/modembridge) - A dial-up gateway that identifies payphone protocols and bridges modem calls to TCP backends.
 
 ## Nortel
 
 - [hharte/mm_manager](https://github.com/hharte/mm_manager) - Manager for the Nortel Millennium series of payphones.
 - [jxburros/mm_manager](https://github.com/jxburros/mm_manager) - A SIP-enabled fork of mm_manager, the Millennium Manager by Howard M. Harte. Supports Nortel Millenniums, Elcotel, and Protel phones.
-- [vekejsn/modembridge](https://github.com/vekejsn/modembridge) - A dial-up gateway that identifies payphone protocols and bridges modem calls to TCP backends.(https://github.com/vekejsn/modembridge) - 
+- [vekejsn/modembridge](https://github.com/vekejsn/modembridge) - A dial-up gateway that identifies payphone protocols and bridges modem calls to TCP backends.
 - [Millennium Demo Firmware Customizer](https://payphones.telesfor.org/nortel-demo/)
 
 ## Protel
