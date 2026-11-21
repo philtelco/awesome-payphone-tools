@@ -4,9 +4,16 @@ Cool software for programming of controlling payphones
 ## Elcotel
 
 - [merkur-xr4ti/Elcotel-Payphone-Network-Manager](https://github.com/merkur-xr4ti/Elcotel-Payphone-Network-Manager) - AI RUST Rewrite of the ancient Elcotel/QuorTech software used to manage Elcotel COCOT Phones -- With added SIP Support.
+
+### Tools
+
 - [Elcotel Custom Firmware Tool](https://payphones.telesfor.org/elcotel-rom/)
 - [Elcotel Rate File Creation Tool](https://payphones.telesfor.org/ratefile/)
 - [vekejsn/elcotel-playground](https://github.com/vekejsn/elcotel-playground) - reverse engineered rate/configuration files for the Elcotel Series 5 payphones.
+
+### Emulators
+
+- [merkur-xr4ti/Elcotel-Emulator](https://github.com/merkur-xr4ti/Elcotel-Emulator) - A desktop emulator for Elcotel Series 5 "smart" payphones that runs the phone's real firmware.
 
 ## Ernest
 
